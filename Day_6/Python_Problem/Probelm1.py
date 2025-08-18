@@ -49,3 +49,4 @@ print(Solution().divideString("openai", 2, "#"))
 print(Solution().divideString("python", 3, "!"))
 print(Solution().divideString("python", 4, "!"))
 print(Solution().divideString("1234567890", 2, "0"))
+
